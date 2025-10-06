@@ -1,0 +1,9 @@
+node_modules
+.vinxi
+.output
+dist
+.DS_Store
+*.log
+.env
+.env.local
+*.timestamp_*.js
