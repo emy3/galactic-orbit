@@ -1,6 +1,6 @@
 # Galactic Orbit 🚀
 
-A modern web application built with TanStack Start that provides real-time space weather data from NASA's DONKI (Space Weather Database Of Notifications, Knowledge, Information).
+A modern web application built with Vite and TanStack Router that provides real-time space weather data from NASA's DONKI (Space Weather Database Of Notifications, Knowledge, Information).
 
 ## Features
 
