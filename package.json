@@ -1,0 +1,36 @@
+{
+  "name": "galactic-orbit",
+  "version": "1.0.0",
+  "description": "a web application utilizing nasa api to gather space data!",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tanstack/react-router": "^1.132.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.545.0",
+    "postcss": "^8.5.6",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@tanstack/router-devtools": "^1.132.47",
+    "@tanstack/router-plugin": "^1.132.47",
+    "@types/node": "^24.7.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.11"
+  }
+}
